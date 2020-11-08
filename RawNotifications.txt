@@ -34,6 +34,7 @@ https://docs.microsoft.com/en-us/previous-versions/windows/apps/hh868206(v=win.1
 
 WINDOWS STORE DEVELOPMENT ACCOUNT
 https://developer.microsoft.com/en-us/store/register/
+https://developer.microsoft.com/en-us/windows/
 
 
 microsoft developer account:
