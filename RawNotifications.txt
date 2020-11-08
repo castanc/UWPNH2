@@ -1,6 +1,10 @@
 ﻿send notifications to uwp
  https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-windows-store-dotnet-get-started-wns-push-notification
  
+ TAGS IN azure notifications:
+ https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-tags-segment-push-message
+ 
+ 
  troubleshooting notifications in azure
 https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-push-notification-fixer
 
