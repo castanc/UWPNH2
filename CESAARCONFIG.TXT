@@ -16,7 +16,14 @@ APPLICATION IDENTITY
 azure protal (pwc) notification hub
 https://portal.azure.com/#@PwC.onmicrosoft.com/resource/subscriptions/486a3eb0-32e7-4406-affb-e1da281d22b5/resourcegroups/ResourceGroupCesar/providers/Microsoft.NotificationHubs/namespaces/NotificationHubNamespaceCesar/notificationHubs/CesarNH/accessPolicies
 
+Notifucationhubv 2: CesarNH
 Endpoint=sb://notificationhubnamespacecesar.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=aZIAQ/uG4tdo5NV/fAUAI3KcDDBX0BYtJkl5s0Q0yZ4=
-
-
 Endpoint=sb://notificationhubnamespacecesar.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=eJnjD11y8KkLz/SUg4+7CBIuJ+HFWDNMYZ38ZbbP6CI=
+
+
+notificationhub:
+Name: NotificationhuBCesar
+listen cs: Endpoint=sb://notificationhubnamespacecesar.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=Ulpe/3TtR2RsHsmrHNN8su+9Ex9Fu/rHdepmbse6tOI=
+listen.manage,send: Endpoint=sb://notificationhubnamespacecesar.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=d3ledxOdV4vrXh+sC0BVX08ravBpgJ/E4Z6/W0YVkJ8=
+
+
