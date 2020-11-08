@@ -11,3 +11,7 @@ ms-app://s-1-15-2-3884236876-3812669160-4280571650-1636898642-1812635452-3623405
 
 APPLICATION IDENTITY
 <Identity Name='31357CesarInc.CesarApp01' Publisher='CN=2DD59D87-FD6E-44F7-B901-7A0690834867' />
+
+
+azure protal (pwc) notification hub
+https://portal.azure.com/#@PwC.onmicrosoft.com/resource/subscriptions/486a3eb0-32e7-4406-affb-e1da281d22b5/resourcegroups/ResourceGroupCesar/providers/Microsoft.NotificationHubs/namespaces/NotificationHubNamespaceCesar/notificationHubs/CesarNH/accessPolicies
